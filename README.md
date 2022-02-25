@@ -1,0 +1,2 @@
+# olamundo
+Exercicio etec ab 
